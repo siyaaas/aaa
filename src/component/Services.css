@@ -1,0 +1,55 @@
+#services {
+  background-color: #718355;
+}
+
+.Consultpng {
+  width: 100px;
+  height: 100px;
+}
+
+.row.text-center {
+  display: flex;
+  justify-content: space-around; /* จัดการช่องว่างระหว่างภาพ */
+  align-items: center;
+  flex-wrap: wrap; /* ป้องกันการล้นของภาพในกรณีที่พื้นที่ไม่พอ */
+}
+
+.col-md-4 {
+  flex: 1;
+  padding: 10px;
+}
+
+.servicebox {
+  border: 2px solid #ffffff;
+}
+
+section {
+  padding: 100px 0;
+}
+
+section h2.section-heading {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 40px;
+}
+
+section h3.section-subheading {
+  margin-bottom: 75px;
+  text-transform: none;
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  color: #e9f5db;
+}
+
+@media (min-width: 768px) {
+  section {
+    padding: 150px 0;
+  }
+}
+
+.service-heading {
+  margin: 15px 0;
+  text-transform: none;
+}

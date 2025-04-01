@@ -1,0 +1,327 @@
+@import url("//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:700");
+@import url("//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css");
+@import url("https://startbootstrap.com/templates/agency/font-awesome-4.1.0/css/font-awesome.min.css");
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#flip {
+  display: block;
+  height: 80px;
+  overflow: hidden;
+  margin: 10px;
+  padding: auto;
+}
+
+.intro-head {
+  border: 2px solid #ffffff;
+  padding: 60px;
+}
+
+#flip div div {
+  color: #ffffff;
+  padding: 4px 12px;
+  height: 45px;
+  margin-bottom: 45px;
+  display: inline-block;
+  font-family: "acta-display", serif;
+}
+
+#flip div:first-child {
+  animation: show 8s linear infinite;
+}
+
+@keyframes show {
+  0% {
+    margin-top: -360px; /* เริ่มต้นซ่อนบรรทัดที่ 4 */
+  }
+  5% {
+    margin-top: -270px; /* แสดงบรรทัดที่ 3 */
+  }
+  25% {
+    margin-top: -270px;
+  }
+  30% {
+    margin-top: -180px; /* แสดงบรรทัดที่ 2 */
+  }
+  50% {
+    margin-top: -180px;
+  }
+  55% {
+    margin-top: -90px; /* แสดงบรรทัดที่ 1 */
+  }
+  75% {
+    margin-top: -90px;
+  }
+  80% {
+    margin-top: 0px; /* แสดงบรรทัดที่ 0 (ข้อความสุดท้าย) */
+  }
+  99.99% {
+    margin-top: 0px;
+  }
+  100% {
+    margin-top: -360px; /* วนกลับไปซ่อนบรรทัดที่ 4 */
+  }
+}
+
+.text-primary {
+  color: #1ee2e7;
+}
+.intro-lowing p {
+  font-size: 14px;
+  line-height: 1.75;
+}
+
+p.large {
+  font-size: 16px;
+}
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+  outline: 0;
+}
+
+a {
+  color: #1ee2e7;
+}
+
+a:hover,
+a:focus,
+a:active,
+a.active {
+  color: #17d0d5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+.img-centered {
+  margin: 0 auto;
+}
+
+.bg-light-gray {
+  background-color: #f7f7f7;
+}
+
+.bg-darkest-gray {
+  background-color: #3c3232;
+}
+
+.btn-primary {
+  border-color: #1ee2e7;
+  text-transform: uppercase;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  color: #fff;
+  background-color: #1ee2e7;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  border-color: #17d0d5;
+  color: #fff;
+  background-color: #17d0d5;
+}
+
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  background-image: none;
+}
+
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+  border-color: #1ee2e7;
+  background-color: #1ee2e7;
+}
+
+.btn-primary .badge {
+  color: #1ee2e7;
+  background-color: #fff;
+}
+
+.btn-xl {
+  padding: 19px 40px;
+  border-color: #ffffff;
+  border-radius: 20px;
+  text-transform: uppercase;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  color: #fff;
+
+  transition: all 0.9;
+}
+
+.btn-xl:hover,
+.btn-xl:focus,
+.btn-xl:active,
+.btn-xl.active,
+.open .dropdown-toggle.btn-xl {
+  border-color: #ffffff;
+  color: #fff;
+  background-color: #a3a1a1a7;
+  transform: scale(1);
+}
+
+.btn-xl:active,
+.btn-xl.active,
+.open .dropdown-toggle.btn-xl {
+  background-image: none;
+}
+
+.btn-xl.disabled,
+.btn-xl[disabled],
+fieldset[disabled] .btn-xl,
+.btn-xl.disabled:hover,
+.btn-xl[disabled]:hover,
+fieldset[disabled] .btn-xl:hover,
+.btn-xl.disabled:focus,
+.btn-xl[disabled]:focus,
+fieldset[disabled] .btn-xl:focus,
+.btn-xl.disabled:active,
+.btn-xl[disabled]:active,
+fieldset[disabled] .btn-xl:active,
+.btn-xl.disabled.active,
+.btn-xl[disabled].active,
+fieldset[disabled] .btn-xl.active {
+  border-color: #1ee2e7;
+  background-color: #1ee2e7;
+}
+
+.btn-xl .badge {
+  color: #fed136;
+  background-color: #fff;
+}
+
+header {
+  text-align: center;
+  /* color: #fff; */
+  background-attachment: scroll;
+
+  /* background-image: url("/public//images/BGHead.jpg"); */
+  background-position: center center;
+  background-repeat: none;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  /* background-color: #12121293; */
+}
+
+header .intro-text {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.intro-lowing {
+  margin-bottom: 50px;
+  color: #fcfcfc;
+  font-size: small;
+  font-family: "acta-display", serif;
+  font-style: italic;
+}
+
+header .intro-text .intro-lead-in {
+  margin-bottom: 20px;
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  font-style: italic;
+  line-height: 22px;
+}
+
+header .intro-text .intro-heading {
+  margin-bottom: 25px;
+  text-transform: uppercase;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 50px;
+}
+
+@media (min-width: 768px) {
+  header .intro-text {
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+
+  header .intro-text .intro-lead-in {
+    margin-bottom: 25px;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    line-height: 40px;
+  }
+
+  header .intro-text .intro-heading {
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 70px;
+  }
+}
+
+.logo-deteil {
+  margin-right: 10px;
+  width: 100px;
+}
+
+.logo-deteil1 {
+  margin-right: 10px;
+  width: 70px;
+}
+
+/* .icondata {
+  margin: 10px;
+  transition: 0.4s; 
+  color: rgb(9, 9, 9);
+  text-decoration: none;
+  justify-self: end;
+}
+.fb:hover {
+  
+  color: rgb(11, 0, 220);
+  transform: translateY(-10px); 
+}
+.lc:hover {
+  color: rgb(239, 5, 5);
+  transform: translateY(-10px);
+} */
