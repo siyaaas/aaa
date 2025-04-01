@@ -27,7 +27,7 @@ const Project = () => {
                 </div>
               </div>
               <img
-                src="/public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
+                src="../public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
                 className="img-responsive"
                 alt=""
               />
@@ -50,7 +50,7 @@ const Project = () => {
                 </div>
               </div>
               <img
-                src="/public/images/Project/CCTV ด่านชั่งน้ำหนัก/IMG20190226151349.jpg"
+                src="../public/images/Project/CCTV ด่านชั่งน้ำหนัก/IMG20190226151349.jpg"
                 className="img-responsive"
                 alt=""
               />
@@ -73,7 +73,7 @@ const Project = () => {
                 </div>
               </div>
               <img
-                src="/public/images/Project/Kingpin/IMG_8219.JPG"
+                src="../public/images/Project/Kingpin/IMG_8219.JPG"
                 className="img-responsive"
                 alt=""
               />
@@ -96,7 +96,7 @@ const Project = () => {
                 </div>
               </div>
               <img
-                src="/public/images/Project/Central Leb/ความคืบหน้า_๒๑๐๑๐๗_26.jpg"
+                src="../public/images/Project/Central Leb/ความคืบหน้า_๒๑๐๑๐๗_26.jpg"
                 className="img-responsive"
                 alt=""
               />
@@ -119,7 +119,7 @@ const Project = () => {
                 </div>
               </div>
               <img
-                src="/public/images/Project/Fiber optic มาบตาพุต/ส่งงานดันครั้งที่ 2_190510_0004.jpg"
+                src="../public/images/Project/Fiber optic มาบตาพุต/ส่งงานดันครั้งที่ 2_190510_0004.jpg"
                 className="img-responsive"
                 alt=""
               />
@@ -142,7 +142,7 @@ const Project = () => {
                 </div>
               </div>
               <img
-                src="/public/images/Project/ระบบบริหารกล้องวงจรปิด/LINE_ALBUM_ระบบบริหารจัดการสำหรับกล้องวงจรปิด_25040.jpg"
+                src="../public/images/Project/ระบบบริหารกล้องวงจรปิด/LINE_ALBUM_ระบบบริหารจัดการสำหรับกล้องวงจรปิด_25040.jpg"
                 className="img-responsive"
                 alt=""
               />

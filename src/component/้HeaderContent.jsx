@@ -150,11 +150,11 @@ const HeaderContent = () => {
       >
         <div className="img-allMD">
           <div className="img-MD">
-            <img className="img-MD1" src="/public/images/MD1.jpg" />
+            <img className="img-MD1" src="../public/images/MD1.jpg" />
             <h5>Mr.Amnat Hanprasitkham</h5>
           </div>
           <div className="img-MD1">
-            <img className="" src="/public/images/MD2.jpg" />
+            <img className="" src="../public/images/MD2.jpg" />
             <h5>Miss.Anchara Lawang</h5>
           </div>
         </div>
@@ -205,7 +205,7 @@ const HeaderContent = () => {
             continually develops and improves its services to meet the
             ever-evolving demands of the technology landscape.
           </h5>
-          <img className="imgsethome" src="/public/images/Sethome.JPG" />
+          <img className="imgsethome" src="../public/images/Sethome.JPG" />
         </div>
       </SectionTemplate>
       {/* <PageCursors /> */}

@@ -50,7 +50,7 @@ const PageNavbar = () => {
           <a className="page-scroll" href="#page-top">
             <img
               className="imglogo page-scroll "
-              src="/public/images/logo.png"
+              src="../public/images/logo.png"
               alt="Logo"
             />
           </a>

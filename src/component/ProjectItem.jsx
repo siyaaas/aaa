@@ -26,12 +26,12 @@ const ProjectItem = () => {
                   <p className="item-intro text-muted">Motorway M.7 and 9</p>
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
+                    src="../public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
                     alt=""
                   />
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
+                    src="../public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
                     alt=""
                   />
                   <p>
@@ -105,7 +105,7 @@ const ProjectItem = () => {
                   <p className="item-intro text-muted">Motorway M.7 and 9</p>
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV ด่านชั่งน้ำหนัก/IMG20190226151349.jpg"
+                    src="../public/images/Project/CCTV ด่านชั่งน้ำหนัก/IMG20190226151349.jpg"
                     alt=""
                   />
                   <p>
@@ -148,7 +148,7 @@ const ProjectItem = () => {
                   <p className="item-intro text-muted">Motorway M.7 and 9</p>
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/Kingpin/IMG_8219.JPG"
+                    src="../public/images/Project/Kingpin/IMG_8219.JPG"
                     alt=""
                   />
                   <p>
@@ -191,12 +191,12 @@ const ProjectItem = () => {
                   <p className="item-intro text-muted">Phraram 2</p>
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/Central Leb/ความคืบหน้า_๒๑๐๑๐๗_26.jpg"
+                    src="../public/images/Project/Central Leb/ความคืบหน้า_๒๑๐๑๐๗_26.jpg"
                     alt=""
                   />
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
+                    src="../public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
                     alt=""
                   />
                   <p>
@@ -239,7 +239,7 @@ const ProjectItem = () => {
                   <p className="item-intro text-muted">Motorway M.7</p>
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/Fiber optic มาบตาพุต/ส่งงานดันครั้งที่ 2_190510_0004.jpg"
+                    src="../public/images/Project/Fiber optic มาบตาพุต/ส่งงานดันครั้งที่ 2_190510_0004.jpg"
                     alt=""
                   />
 
@@ -283,12 +283,12 @@ const ProjectItem = () => {
                   <p className="item-intro text-muted">HWW</p>
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/ระบบบริหารกล้องวงจรปิด/LINE_ALBUM_ระบบบริหารจัดการสำหรับกล้องวงจรปิด_25040.jpg"
+                    src="../public/images/Project/ระบบบริหารกล้องวงจรปิด/LINE_ALBUM_ระบบบริหารจัดการสำหรับกล้องวงจรปิด_25040.jpg"
                     alt=""
                   />
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/ระบบบริหารกล้องวงจรปิด/LINE_ALBUM_ระบบบริหารจัดการสำหรับกล้องวงจรปิด_250401.jpg"
+                    src="../public/images/Project/ระบบบริหารกล้องวงจรปิด/LINE_ALBUM_ระบบบริหารจัดการสำหรับกล้องวงจรปิด_250401.jpg"
                     alt=""
                   />
                   <p>
@@ -331,12 +331,12 @@ const ProjectItem = () => {
                   <p className="item-intro text-muted">Motorway M.7 and 9</p>
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
+                    src="../public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
                     alt=""
                   />
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
+                    src="../public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
                     alt=""
                   />
                   <p>
@@ -379,12 +379,12 @@ const ProjectItem = () => {
                   <p className="item-intro text-muted">Motorway M.7 and 9</p>
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
+                    src="../public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
                     alt=""
                   />
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
+                    src="../public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
                     alt=""
                   />
                   <p>
@@ -427,12 +427,12 @@ const ProjectItem = () => {
                   <p className="item-intro text-muted">Motorway M.7 and 9</p>
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
+                    src="../public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
                     alt=""
                   />
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
+                    src="../public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
                     alt=""
                   />
                   <p>
@@ -475,12 +475,12 @@ const ProjectItem = () => {
                   <p className="item-intro text-muted">Motorway M.7 and 9</p>
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
+                    src="../public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
                     alt=""
                   />
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
+                    src="../public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
                     alt=""
                   />
                   <p>
@@ -523,12 +523,12 @@ const ProjectItem = () => {
                   <p className="item-intro text-muted">Motorway M.7 and 9</p>
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
+                    src="../public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
                     alt=""
                   />
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
+                    src="../public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
                     alt=""
                   />
                   <p>
@@ -571,12 +571,12 @@ const ProjectItem = () => {
                   <p className="item-intro text-muted">Motorway M.7 and 9</p>
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
+                    src="../public/images/Project/CCTV Service Area/LINE_ALBUM_SERVICE AREAS Sta.48+000 R M.7_๒๓๐๖๐๖_18.jpg"
                     alt=""
                   />
                   <img
                     className="img-responsive-item"
-                    src="/public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
+                    src="../public/images/Project/CCTV Service Area/งานติดตั้งตู้ควบคุม กม.21 สาย7 ขาออก_๒๑๐๙๐๗_1.jpg"
                     alt=""
                   />
                   <p>

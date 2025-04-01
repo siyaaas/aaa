@@ -31,7 +31,7 @@ const Services = () => {
             <span className="fa-stack fa-4x">
               <img
                 className="Consultpng"
-                src="/public/images/Service/Consult.png"
+                src="../public/images/Service/Consult.png"
               />
             </span>
             <h4 className="service-heading">Consult</h4>
@@ -40,7 +40,7 @@ const Services = () => {
             <span className="fa-stack fa-4x">
               <img
                 className="Consultpng"
-                src="/public/images/Service/survey.png"
+                src="../public/images/Service/survey.png"
               />
             </span>
             <h4 className="service-heading">Survey</h4>
@@ -50,7 +50,7 @@ const Services = () => {
             <span className="fa-stack fa-4x">
               <img
                 className="Consultpng"
-                src="/public/images/Service/planing.png"
+                src="../public/images/Service/planing.png"
               />
             </span>
             <h4 className="service-heading">Planing</h4>
@@ -59,7 +59,7 @@ const Services = () => {
             <span className="fa-stack fa-4x">
               <img
                 className="Consultpng"
-                src="/public/images/Service/installation.png"
+                src="../public/images/Service/installation.png"
               />
             </span>
             <h4 className="service-heading">Installation</h4>
@@ -68,7 +68,7 @@ const Services = () => {
             <span className="fa-stack fa-4x">
               <img
                 className="Consultpng"
-                src="/public/images/Service/maintenance.png"
+                src="../public/images/Service/maintenance.png"
               />
             </span>
             <h4 className="service-heading">Maintenance</h4>

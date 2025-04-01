@@ -19,47 +19,47 @@ const PageBrandSlider = () => {
       <div className="brands-wrap">
         <Flickity className={"brand-carousel"} options={flickityOptions}>
           <div className="gallery-cell">
-            <img src="/public/images/About Us/logo-doh.png" alt="กรมทางหลวง" />
+            <img src="../public/images/About Us/logo-doh.png" alt="กรมทางหลวง" />
           </div>
           <div className="gallery-cell">
             <img
-              src="/public/images/About Us/logo-hww.png"
+              src="../public/images/About Us/logo-hww.png"
               alt="สำนักงานควบคุมน้ำหนักยานพาหนะ"
             />
           </div>
           <div className="gallery-cell">
-            <img src="/public/images/About Us/logo-mtw.png" alt="มอเตอร์เวย์" />
+            <img src="../public/images/About Us/logo-mtw.png" alt="มอเตอร์เวย์" />
           </div>
           <div className="gallery-cell">
             <img
-              src="/public/images/About Us/logo-police.png"
+              src="../public/images/About Us/logo-police.png"
               alt="การตำรวจภาค7"
             />
           </div>
           <div className="gallery-cell">
-            <img src="/public/images/About Us/logo-water.png" alt="การปะปา" />
+            <img src="../public/images/About Us/logo-water.png" alt="การปะปา" />
           </div>
           <div className="gallery-cell">
-            <img src="/public/images/About Us/logo-train.png" alt="การรถไฟ" />
+            <img src="../public/images/About Us/logo-train.png" alt="การรถไฟ" />
           </div>
           <div className="gallery-cell">
-            <img src="/public/images/About Us/logo-bbl.png" alt="" />
+            <img src="../public/images/About Us/logo-bbl.png" alt="" />
           </div>
           <div className="gallery-cell">
-            <img src="/public/images/About Us/logo-bjc.png" alt="" />
+            <img src="../public/images/About Us/logo-bjc.png" alt="" />
           </div>
 
           <div className="gallery-cell">
-            <img src="/public/images/About Us/logo-cholpathan.png" alt="" />
+            <img src="../public/images/About Us/logo-cholpathan.png" alt="" />
           </div>
           <div className="gallery-cell">
-            <img src="/public/images/About Us/logo-exat.png" alt="" />
+            <img src="../public/images/About Us/logo-exat.png" alt="" />
           </div>
           <div className="gallery-cell">
-            <img src="/public/images/About Us/logo-major.png" alt="" />
+            <img src="../public/images/About Us/logo-major.png" alt="" />
           </div>
           <div className="gallery-cell">
-            <img src="/public/images/About Us/logo-nt.png" alt="" />
+            <img src="../public/images/About Us/logo-nt.png" alt="" />
           </div>
         </Flickity>
       </div>

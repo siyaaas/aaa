@@ -24,7 +24,7 @@ const About = () => {
                 <div className="timeline-image img-responsive">
                   <img
                     className="img-responsive imgabout"
-                    src="/public/images/SET_TECH.png"
+                    src="../public/images/SET_TECH.png"
                     alt=""
                   />
                 </div>
@@ -54,7 +54,7 @@ const About = () => {
                 <div className="timeline-image img-responsive">
                   <img
                     className="img-responsive imgabout"
-                    src="/public/images/logo.png"
+                    src="../public/images/logo.png"
                     alt=""
                   />
                 </div>
@@ -80,7 +80,7 @@ const About = () => {
                 <div className="timeline-image">
                   <img
                     className="img-responsive imgabout"
-                    src="/public/images/Logo Sam 1.png"
+                    src="../public/images/Logo Sam 1.png"
                     alt=""
                   />
                 </div>
@@ -105,7 +105,7 @@ const About = () => {
                 <div className="timeline-image">
                   <img
                     className="img-responsive imgabout"
-                    src="/public/images/set group retail.png"
+                    src="../public/images/set group retail.png"
                     alt=""
                   />
                 </div>

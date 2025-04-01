@@ -28,7 +28,7 @@ const PageFooter = () => {
                   >
                     <img
                       className="img-location"
-                      src="/public/images/location.jpg"
+                      src="../public/images/location.jpg"
                     ></img>
                   </a>
                 </div>
@@ -74,13 +74,13 @@ const PageFooter = () => {
               <div class="col-xl-4 col-lg-4 mb-50">
                 <div class="footer-widget">
                   <div class="footer-logo">
-                    <img src="/public/images/logo.png" />
-                    <img src="/public/images/SET_TECH.png" />
+                    <img src="../public/images/logo.png" />
+                    <img src="../public/images/SET_TECH.png" />
                     <img
                       className="footer-logo1"
-                      src="/public/images/Logo Sam 1.png"
+                      src="../public/images/Logo Sam 1.png"
                     />
-                    <img src="/public/images/set group retail.png" />
+                    <img src="../public/images/set group retail.png" />
                   </div>
                   <div class="footer-text">
                     {/* <p>

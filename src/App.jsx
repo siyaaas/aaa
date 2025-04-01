@@ -33,25 +33,25 @@ const App = () => {
                 <div>
                   <img
                     className="logo-deteil"
-                    src="/public/images/logo.png"
+                    src="../public/images/logo.png"
                   ></img>
                   <div>SET GROUP SOLUTION CO.,LTD.</div>
                   <br></br>
                   <img
                     className="logo-deteil"
-                    src="/public/images/SET_TECH.png"
+                    src="../public/images/SET_TECH.png"
                   ></img>
                   <div>SET TECH Ltd..part.</div>
                   <br></br>
                   <img
                     className="logo-deteil"
-                    src="/public/images/set group retail.png"
+                    src="../public/images/set group retail.png"
                   ></img>
                   <div>SET GROUP RETAIL CO.,LTD.</div>
                   <br></br>
                   <img
                     className="logo-deteil1"
-                    src="/public/images/Logo Sam 1.png"
+                    src="../public/images/Logo Sam 1.png"
                   ></img>
                   <div>SAM TECHNOLOGY SUPPORT CO.,LTD.</div>
                 </div>
@@ -83,7 +83,7 @@ const App = () => {
           opacity: "1",
         }}
       >
-        <source src="/public/images/bg-video1.mp4" type="video/mp4" />
+        <source src="../public/images/bg-video1.mp4" type="video/mp4" />
       </video>
       {/* <div style={{ position: "relative", zIndex: "1", color: "white" }}></div> */}
       {/* Navigation */}
